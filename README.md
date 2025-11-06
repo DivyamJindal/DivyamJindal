@@ -27,14 +27,6 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamJindal&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
