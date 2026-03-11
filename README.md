@@ -36,14 +36,6 @@ I build things for the web. I enjoy turning complex problems into simple, clean 
 
 ---
 
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=DivyamJindal&theme=darkhub&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
 ### Tech Stack
 
 <div align="center">
